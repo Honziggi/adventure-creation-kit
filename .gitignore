@@ -1,0 +1,11 @@
+# Ignoruj vše
+*
+
+# Ale neignoruj tyto složky/soubory:
+!src/
+!src/**
+!build.gradle.kts
+!settings.gradle.kts
+!gradle.properties
+!gradlew
+!gradlew.bat
