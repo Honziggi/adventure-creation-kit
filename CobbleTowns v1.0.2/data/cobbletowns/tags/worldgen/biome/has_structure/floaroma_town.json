@@ -1,8 +1,0 @@
-{ "values": [
-	"minecraft:sunflower_plains",
-	"minecraft:meadow",
-	{
-		"id": "terralith:blooming_plateau",
-		"required": false
-	}
-]}
