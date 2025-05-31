@@ -1,0 +1,5 @@
+{ "pack": {
+	"description": "Adds naturally spawning Pokémon-themed towns",
+	"pack_format": 15,
+	"supported_formats": [18,26]
+}}
