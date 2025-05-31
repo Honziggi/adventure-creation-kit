@@ -1,0 +1,17 @@
+/.idea
+/.gradle
+/build
+/out
+/.run
+/.DS_Store
+*.iml
+*.log
+*.class
+
+# IntelliJ
+*.ipr
+*.iws
+*.bak
+
+# OS junk
+Thumbs.db
